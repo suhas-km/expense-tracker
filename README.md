@@ -66,4 +66,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Inspired by various online tutorials and the React documentation.
-- Special thanks to the open-source community for providing useful resources.
+- Thanks to the open-source community for providing useful resources.
+- Special thanks to [https://www.youtube.com/@TraversyMedia]
