@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+This is a React Expense Tracker, a project converted from pure Vanilla Javascript to a React Framework with React Hooks & Context API.
+
+Guided Project from: [https://www.youtube.com/watch?v=XuFDcZABiDQ]
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
